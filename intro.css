@@ -112,7 +112,8 @@ main {
 .box3:hover {
 
     filter: drop-shadow(6px 6px 10px #4b491e);
-    transform: scale(108%)
+    transform: scale(108%);
+    transform: ease-in 1;
 }
 
 .box2:hover {
